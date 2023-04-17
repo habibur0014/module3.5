@@ -1,0 +1,67 @@
+body{}
+.logo{}
+.logo img{
+    margin-left: 600px;
+    width: 75px;
+}
+.header_banner_text{
+    background-color: green;
+}
+.header_banner_text h1{
+    font-size: 50px;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+}
+.red_color{
+    color: #db0404;
+}
+.image_with_text{
+    display: flex;
+}
+.text{
+    margin-top: 20px;
+}
+.text h2{
+    margin-left: 100px;
+}
+.text p{
+    margin-left: 100px;
+    width: 650px;
+}
+.images{
+    width: 100%;    
+}
+.images img{
+    width: 85%;
+}
+.btn{
+    margin-left: 100px;
+    background-color: green;
+    border-radius: 15px;
+    border: none;
+    width: 100px;
+    height: 35px;
+    color: white;
+    margin-top: 10PX;
+}
+.top_places{
+    display: flex;
+}
+.sundarban{
+    width: 100%;
+}
+.bd{
+    width: 450PX;
+    height: 400PX;
+}
+.zoom {
+    background-color: green;
+    transition: transform .2s;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5); 
+  }
